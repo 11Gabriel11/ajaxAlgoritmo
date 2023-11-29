@@ -1,0 +1,38 @@
+body {
+    font-family: 'fantasy';
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 0%;
+    text-align: center;
+    background-image: url(poke.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  .container {
+    background-color: rgb(181, 181, 181);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border: 3px solid #000000;
+    border-radius: 60px/20px;
+    
+    
+  }
+
+.container:hover{
+  box-shadow: 0 20px 30px rgba(255, 0, 157, 0.2);
+}
+
+.buscar{
+  position: relative;
+  bottom: 500px;
+  left: 1000px;
+}
+
+
+
