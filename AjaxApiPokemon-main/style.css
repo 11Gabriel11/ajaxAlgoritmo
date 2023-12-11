@@ -34,5 +34,10 @@ body {
   left: 1000px;
 }
 
+#ConteinerCard{
+  position: relative;
+  left: 740px;
+}
+
 
 
